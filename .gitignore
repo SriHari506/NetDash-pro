@@ -1,0 +1,6 @@
+".idea/" 
+"*.iml" 
+"target/" 
+"bin/" 
+"*.class" 
+".DS_Store" 

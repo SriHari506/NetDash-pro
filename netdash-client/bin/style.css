@@ -1,0 +1,37 @@
+.root {
+    -fx-background-color: #1e1e2f;
+    -fx-padding: 20;
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.title-label {
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.device-table {
+    -fx-table-cell-border-color: transparent;
+    -fx-control-inner-background: #2e2e3e;
+    -fx-text-fill: #e8e8e8;
+    -fx-font-size: 14px;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #4e88ff;
+}
+
+.delete-button {
+    -fx-background-color: #ff4444;
+    -fx-text-fill: white;
+}
+
+.edit-button {
+    -fx-background-color: #44aaff;
+    -fx-text-fill: white;
+}
+
+.config-button {
+    -fx-background-color: #44ff44;
+    -fx-text-fill: white;
+}
